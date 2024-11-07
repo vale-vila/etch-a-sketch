@@ -1,0 +1,16 @@
+#container {
+display: flex;
+width: 732px;
+height: 748px;
+flex-grow: 0;
+justify-content: space-evenly;
+flex-flow: row wrap;
+background: peachpuff;
+
+}
+
+.content{
+background-color: orange;
+border: 4px solid blue;
+flex-basis: 175px;
+}
